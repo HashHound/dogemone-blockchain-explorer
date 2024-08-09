@@ -1,4 +1,4 @@
-var api = 'https://explorer.dogemone.online';
+var api = 'http://95.179.157.32:53000';
 var blockTargetInterval = 60;
 var coinUnits = 100000000;
 var symbol = 'DME';
